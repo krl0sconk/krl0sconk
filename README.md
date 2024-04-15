@@ -2,7 +2,6 @@
 -  I’m interested in software engineering and arduino projects
 -  I’m currently learning c++ and basic electronics
 -  I’m looking to collaborate on anything that i could learn new things
--  How to reach me 404krl0s@gmai.com
 
 
                 ________o8A888888o_
