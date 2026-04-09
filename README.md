@@ -1,4 +1,4 @@
-<h1 align="center"> Holaaaa 👋</h1>
+
 
 <p align="center">
   Estudiante de Ingeniería de Sistemas · Universidad del Norte, Barranquilla 🇨🇴<br/>
