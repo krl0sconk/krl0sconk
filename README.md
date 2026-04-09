@@ -7,7 +7,7 @@
 
 ### 🙋‍♂️ Sobre mí
 
-- 🎓 Estudiando **Ingeniería de Sistemas** en Uninorte (2025 – 2029)
+- 🎓 Estudiando **Ingeniería de Sistemas** en Uninorte (2025 – ...)
 - 🎮 Me interesa el desarrollo de videojuegos con **Unity** y **Unreal Engine 5**
 - 🌐 También disfruto el desarrollo web y de software en general
 - 🤝 Voluntario en **Fundación Genesis Faydim** — logística y desarrollo web
