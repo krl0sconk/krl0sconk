@@ -1,5 +1,3 @@
-
-
 <p align="center">
   Estudiante de Ingeniería de Sistemas · Universidad del Norte, Barranquilla 🇨🇴<br/>
   Apasionado por el desarrollo de software, la web y los videojuegos.
@@ -10,8 +8,9 @@
 ### 🙋‍♂️ Sobre mí
 
 - 🎓 Estudiando **Ingeniería de Sistemas** en Uninorte (2025 – 2029)
-- 🎮 Me interesa el desarrollo de videojuegos con **Unity**, **Godot**y **Unreal Engine 5**
+- 🎮 Me interesa el desarrollo de videojuegos con **Unity** y **Unreal Engine 5**
 - 🌐 También disfruto el desarrollo web y de software en general
+- 🤝 Voluntario en **Fundación Genesis Faydim** — logística y desarrollo web
 - 🌍 Español nativo · Inglés avanzado (C1)
 
 ---
@@ -31,6 +30,8 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
@@ -53,7 +54,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <i>⚡ "Build things, break things, learn everything."</i>
-</p>
